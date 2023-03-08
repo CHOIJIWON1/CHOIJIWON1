@@ -1,16 +1,17 @@
-### Hi there 👋
+나의 이름은 **최지원** 입니다. 😁
 
+저는 3학년에 재학중인 학생입니다. 🌍🏫
 
-**CHOIJIWON1/CHOIJIWON1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+나의 취미
 
-Here are some ideas to get you started:
+- 유튜브 보기 🖥️
+- 첼로 🎻
+- 영화 보기 🎬
+- 뮤지컬 감상 🎟️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+나의 워너비 자격증
 
+|자격증 이름 |
+|---|---|
+|웹디자인기능사|
+|정보처리산업기사|
